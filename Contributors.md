@@ -14,6 +14,7 @@ Nikhil Nagar
 LU_1F3R
 Bhuro
 
+Anjan Singla
 Mohit Agarwal
 Sourav
 
@@ -35,7 +36,7 @@ kavya rajput
 Vaibhav Kumar
 Devansh Pandey
 Sanjeet Manna
-
+Rohit mahawar
 Hardik Narang
 Vaishnavi Kolgane
 Jasleen Kaur
@@ -50,4 +51,4 @@ Prachi Bhagat
 Archit Modi
 Lakshita
 Saurabh Rana
-
+Omprakash Saran
